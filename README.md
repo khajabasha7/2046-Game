@@ -76,14 +76,3 @@ This project is open-source and free to use under the MIT License.
 
 ✅ Project Status:
 ✅ Completed and fully working for 4x4 Grid size.
-
-Feel free to ⭐️ Star this repo if you like it!
-
-yaml
-Copy
-Edit
-
----
-
-✅ ✅ **If you want, I can also generate a small screenshot layout for your game UI for the README. Want that too?**  
-👉 Just reply: `"Yes, give me screenshot image layout for README"`
