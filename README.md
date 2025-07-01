@@ -27,12 +27,6 @@ The goal of the game is to **merge tiles with the same number until you reach th
 
 ---
 
-## 📷 Screenshot:
-
-> (You can add your game screenshot here)
-
----
-
 ## ▶️ How to Run Locally:
 
 ### 1. Clone this repository:
